@@ -1,0 +1,21 @@
+create Cherries
+current Birds
+create Birds
+current Cherries
+save Cherries.txt
+load Cherries.ppm
+current Birds
+toggle nope
+toggle Birds
+blur
+load Birds.ppm
+blur
+remove
+toggle Cherries
+save sharpenCherries.jpg JPEG
+toggle Cherries
+save sharpenCherries.jpg JPEG
+create Checkerboard
+current Checkerboard
+checkerboard 2 red black
+remove

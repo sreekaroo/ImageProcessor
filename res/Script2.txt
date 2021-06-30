@@ -1,0 +1,9 @@
+import project1
+current Cherries
+toggle Birds
+sepia
+current Birds
+monochrome
+save BirdsMonochrome.png PNG
+q
+export fakeProject

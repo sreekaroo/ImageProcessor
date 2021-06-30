@@ -1,0 +1,16 @@
+create Cherries
+current Cherries
+create Birds
+load Cherries.ppm
+current Birds
+load Birds.ppm
+toggle Birds
+blur
+current Cherries
+sharpen
+save sharpenCherries.jpg JPEG
+export project1 PPM
+
+
+
+
