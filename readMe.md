@@ -54,24 +54,6 @@ Pixabay [https://pixabay.com/]
 
 []: https://pixabay.com/
 
-## Changes:
-
-## The New Controller and View
-
-The `GUIController` and its corresponding implementation `GraphicalController` manage the input and
-timing of the new View and relate data from model to view. The controller consists
-of `MultiLayerdFeatures` methods which are high level features that an interactive image processing
-application must support. The GUI exposes all the features of the program as menus with buttons, for
-the most part. In order to properly read in script files, the image file paths mentioned in the
-script file must match up correctly to placement of jar.
-
-### Extra Credit related changed:
-
-A new image processing model was born, known as the `PremiumProcessingModel`, only for premium
-users. Premium users have access to a mosaic operation. The new interface also has its own
-implementation. The premium users also can downscale images by inputting the specified new size of
-image they want
-
 ## Jar file :
 
 Jar file must be in res folder. Script2 can only be run after Script1 because it needs the files
